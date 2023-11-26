@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Fresh Fusion</string>
+    <string name="drink_name">Drink Name</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string-array name="data_name">
+        <item>Green Smoothie</item>
+        <item>Infused Water</item>
+        <item>Detox Water</item>
+        <item>Coconut Water</item>
+        <item>Herbal Tea</item>
+        <item>Vegetable Juice</item>
+        <item>Traditional Drink</item>
+        <item>Lemonade</item>
+        <item>Iced Greentea</item>
+        <item>Cucumber Mint</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Kandungan vitamin A dan C yang memberikan sistem kekebalan tubuh. Selain itu juga mengandung kalsium dan magnesium yang membuat tulang sehat dan kuat. Selain itu, green smoothies kaya akan klorofil yang meningkatkan sistem kekebalan tubuh, membersihkan darah dan meremajakan tubuh.
+            Bahan : 1 genggam bayam, 1 buah pisang beku, 1/2 buah alpukat kecil, 1/4 cangkir susu almon tanpa pemanis, 1/2 sdt vanila, 1/4 sdt kayu manis. Cara Membuat: Potong buah dan sayur, campurkan semua bahan dalam blender dan proses hingga benar-benar halus. Tuang smoothie ke dalam mangkuk dan lapisi topping.</item>
+        <item>Infused water sangat baik untuk kesehatan. Tidak hanya menyegarkan, infused water juga dipercaya lebih sehat berkat kandungan nutrisi dari potongan buah dan sayuran. Jadi, dengan minum infused water, kamu bisa menghilangkan dahaga, memenuhi kebutuhan asupan cairan, sekaligus mendapatkan nutrisi dari berbagai buah dan sayuran.
+            Bahan : 5 buah stroberi, potong-potong, 1/2 buah lemon, iris, Daun basil secukupnya, 1 liter air dan es batu. Cara membuat : Isi tempat minum atau wadah dengan es batu dan potongan buah. Remas sedikit daun basil agar aromanya terasa pekat. Kemudian, tuang air dingin ke dalam wadah. Simpan infused water di kulkas selama satu jam. Siap diminum ketika dingin!</item>
+        <item>Minuman detox adalah minuman yang diyakini dan diklaim dapat membuang racun (detoksifikasi) dari dalam tubuh, Tinggi vitamin C, meningkatkan sistem kekebalan tubuh dan meningkatkan regenerasi sel. Lemon segar membantu me-reboot hati yang bertanggung jawab untuk detoksifikasi darah Anda.
+            Bahan : 6 c air, 1 potong jahe segar, kupas (panjangnya kira-kira 5-6 inci), 3 batang kayu manis (atau 1-2 sdt kayu manis bubuk), 1 sdt kunyit bubuk, ½ sdt cabai rawit (opsional), 6 buah lemon segar (dan perasan ½ buah lemon segar bila siap dihidangkan). Cara membuat : Kupas akar jahe segar dan potong dadu menjadi irisan tipis. Campurkan irisan jahe dan air dalam panci dengan api besar. Didihkan. Kemudian kecilkan, setelah 10 menit, tambahkan batang kayu manis, kunyit, dan cabai rawit, lalu masak dengan api kecil selama 10 menit, aduk sesekali. Angkat, biarkan dingin dan saring. Jika sudah siap untuk dinikmati, tambahkan perasan ½ jus lemon segar.</item>
+        <item>Dimanfaatkan sebagai minuman alami yang dapat mengganti cairan tubuh yang hilang, terutama setelah berolahraga atau saat menjalani pemulihan setelah sakit.Selain itu, air kelapa juga dijadikan minuman ringan di saat santai sebagai pelepas dahaga yang menyehatkan. Kandungan Nutrisi Air Kelapa  Satu cangkir air dengan berat 245 gram, dapat menyediakan nutrisi sebanyak:  Kalori: 44 kkal,  Lemak: 0 gr, Natrium: 64 mg, Karbohidrat: 10.4 gr,  Serat: 0 gram, Gula: 9.6 gr, Protein: 0,5 gr, Vitamin C: 24,3 mg, Kalium atau potasium: 404 mg.</item>
+        <item>Teh herbal ini adalah perpaduan sempurna untuk diminum setelah makan yang bermanfaat untuk pencernaan seperti menenangkan perut dan mengurangi gejala sindrom iritasi usus besar (IBS). Manfaat lainnya bisa membantu meningkatkan daya ingat.
+            Bahan: 1 sendok peppermint, 1 sendok adas manis, 1 sendok ketumbar. Cara menyeduh: Campurkan teh peppermint, teh biji adas dan teh biji ketumbar (jika pakai bahan segar tiga kali lipatnya) dalam cangkir. Beri air panas dan biarkan selama 15 menit. Saring dan nikmati hasilnya.</item>
+        <item>Jus sayuran merupakan salah satu minuman terbaik yang bisa kamu konsumsi saat sedang diet untuk menurunkan berat badan. Tak hanya untuk mendukung program diet, manfaat lain yang bisa kamu dapatkan yaitu meningkatkan kecantikan kulit dan meningkatkan Kesehatan jantung.
+            Bahan : 1 cangkir selada romaine, ¼ cangkir kucai segar, 2 buah tomat besar, ¼ jalapeño segar, 1 paprika merah besar, 2 batang besar seledri, 1 buah wortel ukuran sedang, kupas, Es batu secukupnya. Cara membuat: Potong-potong semua bahan.Masukkan semuanya ke dalam cangkir blender atau juicer, dan haluskan. Isi 2 gelas dengan es batu (jika mau), dan tuangkan jus ke dalam gelas. Sajikan segera.</item>
+        <item>Jamu adalah minuman herbal tradisional khas Indonesia yang berbahan dasar rempah-rempah. Jamu herbal dapat membantu mempertahankan imunitas, pereda nyeri, obat asam urat, penambah nafsu makan,  dan kecantikan.
+            Bahan: 100 gr kunyit, 50 gr asem Jawa, 100 gr gula merah, 2 sdm gula pasir, 700 ml airCara Membuat: Parut kunyit yang sudah dibersihkan. Tambahkan air pada parutan kunyit, sambil diperas hingga keluar sarinya. Campur seluruh bahan, lalu rebus hingga airnya mendidih. Setelah mendidih, angkat dan dinginkan. Jamu kunyit asam siap dihidangkan, lebih nikmat jika disajikan dingin.</item>
+        <item>Minuman segar dan asam yang berbahan dasar lemon ini bisa menjadi solusi untuk Sahabat Fimela yang sedang defisit kalori. Selain rendah kalori, minuman ini tentu lezat dan bernutrisi. Minuman satu ini juga cocok untuk menjadi pelepas dahaga. Bahan : 1 buah lemon, gula pasir, air soda, daun mint, es batu.Cara membuat : Bersihkan lemon dengan menggosokkan baking soda, lalu cuci dengan air. Iris tipis lemon. Masak lemon menggunakan gula dengan perbandingan 1:1. Jika lemon sudah dimasak, masukkan ke dalam gelas. Tambahkan es batu, lalu tuang soda. Taruh daun mint sebagai garnish. Lemonade siap diminum.</item>
+        <item>Green tea alias teh hijau adalah minuman populer yang kaya akan manfaat. Teh hijau atau green tea menjadi salah satu minuman sehat karena tidak memiliki kandungan kalori yang tinggi. Teh hijau bisa mencegah munculnya tanda penuaan dini, mengatasi mata panda,  dan melembabkan kulit. Bahan : Setengah gelas air teh hijau yang sudah diseduh, 3 daun mint, 2 irisan mentimun, ½ jeruk nipis, ½ sampai 1 sendok teh, madu, es secukupnya, irisan jeruk nipis secukupnya, dan daun mintCara Membuat : Peras jeruk nipis ke dalam gelas. Tambahkan daun mint dan irisan mentimun ke dalam gelas lalu hancurkan secukupnya (tidak perlu sampai halus). Isi gelas dengan es lalu tambahkan air teh hijau. Tambahkan madu. Aduk rata dan minuman siap dinikmati.</item>
+        <item>Air minum mentimun dicampur dengan mint akan memberikan antioksidan, mendukung kesehatan kulit, dan meningkatkan kesehatan tulang, sekaligus menjaga agar tetap terhidrasi. Bahan : Timun (iris tipis), 1 buah jeruk nipis iris tipis (masih ada kulitnya), daun mint (dikemas rapat), air. Cara membuat : Iris tipis mentimun dan jeruk nipis, lalu masukkan ke dalam teko besar, bersama dengan daun mint. Tambahkan air ke teko Anda dan masukkan ke dalam lemari es. Sebaiknya mendiamkannya dan mendinginkannya setidaknya selama 4 jam agar bumbu meresap. Untuk hasil terbaik, diamkan semalaman! Tuang ke dalam gelas tinggi dan nikmati.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/greensmothie</item>
+        <item>@drawable/infusedwater</item>
+        <item>@drawable/detoxwater</item>
+        <item>@drawable/coconutwater</item>
+        <item>@drawable/herbaltea</item>
+        <item>@drawable/vegetablejuice</item>
+        <item>@drawable/traditionaldrink</item>
+        <item>@drawable/lemonade</item>
+        <item>@drawable/icedgreentea</item>
+        <item>@drawable/cucumbermint</item>
+    </integer-array>
+</resources>
